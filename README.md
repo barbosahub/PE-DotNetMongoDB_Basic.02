@@ -12,10 +12,10 @@ Para utilização dos projetos de estudo abaixo, é necessário fazer um restore
 <p align="justify"> Alguns exemplos do blog realizando cadastro, publicação, e verificando publicações mais recentes.
 </p>
 <p align="left">
-  <img src="https://github.com/barbosahub/PE-DotNetMongoDB_Basic.02/blob/main/Images/BlogRegistro.JPG" width="750" alt="Registrando no blog">
-  <img src="https://github.com/barbosahub/PE-DotNetMongoDB_Basic.02/blob/main/Images/BlogAcesso.JPG" width="750" alt="Acessando o blog">
-  <img src="https://github.com/barbosahub/PE-DotNetMongoDB_Basic.02/blob/main/Images/BlogPublicacao.JPG" width="750" alt="Criando Publicações">
-  <img src="https://github.com/barbosahub/PE-DotNetMongoDB_Basic.02/blob/main/Images/BlogPublicacoes.JPG" width="750" alt="Verificando Publicações">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-DotNetMongoDB_Basic.02/BlogRegistro.JPG" width="750" alt="Registrando no blog">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-DotNetMongoDB_Basic.02/BlogAcesso.JPG" width="750" alt="Acessando o blog">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-DotNetMongoDB_Basic.02/BlogPublicacao.JPG" width="750" alt="Criando Publicações">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-DotNetMongoDB_Basic.02/BlogPublicacoes.JPG" width="750" alt="Verificando Publicações">
 </p>
 
 <p align="justify"> Realizando busca por proximidade com função MongoDB.
@@ -25,7 +25,7 @@ Para utilização dos projetos de estudo abaixo, é necessário fazer um restore
 Para utilização do localizador é necessário um Token API do GoogleMaps.
 ```
 <p align="left">
-  <img src="https://github.com/barbosahub/PE-DotNetMongoDB_Basic.02/blob/main/Images/GEO.JPG" width="750" alt="Geolozalizacao com MongoDB">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-DotNetMongoDB_Basic.02/GEO.JPG" width="750" alt="Geolozalizacao com MongoDB">
 </p>
 
 

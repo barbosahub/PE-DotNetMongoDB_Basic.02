@@ -94,13 +94,13 @@ namespace Alura.GoogleMaps.Web.Controllers
 
         private Coordenada ObterCoordenadasDaLocalizacao(string endereco)
         {
-            string url = $"http://maps.google.com/maps/api/geocode/json?address={endereco}&sensor=true";
+            string url = $"https://maps.google.com/maps/api/geocode/json?address={endereco}&key=seutokenapi";
             Debug.WriteLine(url);
 
             var coord = new Coordenada("Não Localizado", "-10", "-10");
             var response = new WebClient().DownloadString(url);
             var googleGeocode = JsonConvert.DeserializeObject<GoogleGeocodeResponse>(response);
-            //Debug.WriteLine(googleGeocode);
+            Debug.WriteLine(googleGeocode);
 
             if (googleGeocode.status == "OK")
             {
